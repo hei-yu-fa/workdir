@@ -1,0 +1,11 @@
+{
+  "name": "whiteboard",
+  "version": "0.0.1",
+  "description": "whiteboard test",
+  "main": "wb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhu",
+  "license": "ISC"
+}
